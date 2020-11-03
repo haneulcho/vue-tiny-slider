@@ -1,4 +1,4 @@
-import { tns } from 'tiny-slider/src/tiny-slider';
+import { tns } from './tiny-slider/src/tiny-slider';
 
 var VueTinySlider = {
 	eventsList: [
@@ -186,6 +186,10 @@ var VueTinySlider = {
 		mouseDrag: {
 			type: [Boolean],
 			default: false
+		},
+		friction: {
+			type: [Boolean],
+			default: true
 		},
 		nested: {
 			type: [String, Boolean],

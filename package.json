@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viktorlarsson/vue-tiny-slider.git"
+    "url": "git+https://github.com/haneulcho/vue-tiny-slider.git"
   },
   "keywords": [
     "javascript",
@@ -21,18 +21,17 @@
   "author": "Viktor Sarström & Morgan Eklund",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/viktorlarsson/vue-tiny-slider/issues"
+    "url": "https://https://github.com/haneulcho/vue-tiny-slider/issues"
   },
-  "homepage": "https://github.com/viktorlarsson/vue-tiny-slider#readme",
+  "homepage": "https://https://github.com/haneulcho/vue-tiny-slider#readme",
   "dependencies": {
-    "lodash": "^4.17.11",
-    "tiny-slider": "^2.9.2"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-preset-es2015": "^6.24.1",
     "webpack": "^4.8.3",
-    "webpack-cli": "^2.1.3"
+    "webpack-cli": "^2.1.5"
   }
 }
