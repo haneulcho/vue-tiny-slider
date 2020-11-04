@@ -318,6 +318,7 @@ var VueTinySlider = {
 				mouseDrag: this.mouseDrag,
 				nested: this.nested,
 				freezable: this.freezable,
+				friction: this.friction,
 				disable: this.disable,
 				onInit: this.onInit,
 				swipeAngle: this.swipeAngle,
